@@ -8,4 +8,4 @@ header_menu: true
 
 ##### AGM 
 
-<--placeholder for November-->
+Date for 2024 to be confirmed. If you'd like to join the committee, please reach out! 

@@ -8,7 +8,7 @@ It is best to reach us by email:
 
 Acting Alumni Chair - Jonathan Shephard
 
-{{<icon class="fa fa-envelope">}}&nbsp;[shephajona@gmail.com](mailto:shephajona@gmail.com)
+{{<icon class="fa fa-envelope">}}&nbsp;[shephajona@gmail.com](mailto:shephajona1@gmail.com)
 
 Otherwise reach out to one of the admins on the following facebook page: 
 
