@@ -8,4 +8,4 @@ header_menu: true
 
 ##### AGM 
 
-Date for 2024 to be confirmed. If you'd like to join the committee, please reach out! 
+Date for 2024 is the 7th of July, 1pm in the Tawa College Staffroom. If you&rsquo;d like to join the committee, please reach out!
